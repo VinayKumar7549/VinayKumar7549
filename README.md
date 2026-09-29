@@ -1,107 +1,336 @@
+<div align="center">
+
 # Hi, I'm Vinay Kumar 👋
 
-### Full-Stack Developer • CSE @ NIT Patna • Cybersecurity
+### Full-Stack Developer · CSE @ NIT Patna · Cybersecurity
 
-I build scalable web applications and developer-focused systems with an interest in
-cybersecurity, AI-powered applications, and secure system design.
+Building scalable web applications, backend systems, and security-focused tools.
 
-Currently focused on improving my skills in full-stack development, backend engineering,
-system design, and application security.
+<br/>
 
----
+<a href="https://github.com/VinayKumar7549">
+  <img src="https://img.shields.io/badge/GitHub-VinayKumar7549-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/sayini-vinay-kumar/">
+  <img src="https://img.shields.io/badge/LinkedIn-Vinay%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-## 🚀 Featured Projects
-
-### 🛡️ ThreatMint
-Security-focused platform for automated vulnerability assessment and AI-assisted
-security analysis.
-
-**Tech:** Next.js • TypeScript • Python • FastAPI • AWS • Cloudflare R2 • PostgreSQL
+</div>
 
 ---
 
-### 🎙️ VoiceMint
-AI voice generation platform with voice cloning, authentication, storage, and
-usage-based credits.
+## 👨‍💻 About Me
 
-**Tech:** Next.js • TypeScript • tRPC • Prisma • PostgreSQL • Modal • Cloudflare R2 • Clerk
+I'm a Computer Science student at **NIT Patna** focused on building real-world software and understanding how systems work under the hood.
 
----
+My main interests are **full-stack development, backend engineering, cybersecurity, cloud technologies, and AI-powered applications**.
 
-### 🐔 PoultryLedger
-Offline-first business management application designed to help manage customers,
-transactions, inventory, purchases, and expenses.
-
-**Tech:** Flutter • Dart • SQLite • Drift • Riverpod
+I enjoy turning ideas into complete systems — from designing APIs and databases to deployment, security, and user-facing applications.
 
 ---
 
-### 📷 SentinelVue
-Smart security camera system integrating edge devices, video streaming,
-motion detection, and a web dashboard.
+## 🚀 What I Build
 
-**Tech:** ESP32-CAM • FastAPI • OpenCV • FFmpeg • React
+<table>
+<tr>
+<td width="50%">
+
+**🌐 Full-Stack Applications**
+
+Modern web applications with scalable architectures, authentication, APIs, databases, and cloud services.
+
+</td>
+
+<td width="50%">
+
+**🛡️ Security**
+
+Web application security, vulnerability assessment, secure system design, and security automation.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+**🤖 AI Applications**
+
+AI-powered applications involving LLMs, RAG pipelines, voice AI, and intelligent automation.
+
+</td>
+
+<td width="50%">
+
+**☁️ Cloud & Backend**
+
+Backend systems, cloud deployments, storage architectures, APIs, and distributed application design.
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⭐ Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/VinayKumar7549/ThreatMint">
+
+<strong>🛡️ ThreatMint</strong>
+
+</a>
+
+<p>
+Security-focused platform for automated vulnerability assessment and AI-assisted security analysis.
+</p>
+
+<p>
+<strong>Stack</strong><br>
+<code>Next.js</code> <code>TypeScript</code> <code>Python</code> <code>FastAPI</code> <code>AWS</code> <code>PostgreSQL</code> <code>Cloudflare R2</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/VinayKumar7549/VoiceMint">
+
+<strong>🎙️ VoiceMint</strong>
+
+</a>
+
+<p>
+AI voice platform featuring voice generation, voice cloning, authentication, cloud storage, and usage-based credits.
+</p>
+
+<p>
+<strong>Stack</strong><br>
+<code>Next.js</code> <code>TypeScript</code> <code>tRPC</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Modal</code> <code>Clerk</code>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/VinayKumar7549/PoultryLedger">
+
+<strong>🐔 PoultryLedger</strong>
+
+</a>
+
+<p>
+Offline-first business management application for customers, transactions, inventory, purchases, and expenses.
+</p>
+
+<p>
+<strong>Stack</strong><br>
+<code>React</code> <code>TypeScript</code> <code>Capacitor</code> <code>SQLite</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/VinayKumar7549/Chat-app">
+
+<strong>💬 Chat-app</strong>
+
+</a>
+
+<p>
+Full-stack chat application with real-time messaging, user communication, and a responsive web interface.
+</p>
+
+<p>
+<strong>Stack</strong><br>
+<code>JavaScript</code> <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/VinayKumar7549/SentinelVue-Smart_Security_Camera">
+
+<strong>📷 SentinelVue</strong>
+
+</a>
+
+<p>
+Smart security camera system combining edge devices, video streaming, motion detection, and a web dashboard.
+</p>
+
+<p>
+<strong>Stack</strong><br>
+<code>ESP32-CAM</code> <code>FastAPI</code> <code>OpenCV</code> <code>FFmpeg</code> <code>C</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<strong>🔭 More on GitHub</strong>
+
+<p>
+Explore my other projects, experiments, and development work.
+</p>
+
+<a href="https://github.com/VinayKumar7549?tab=repositories">
+<strong>View all repositories →</strong>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 🧰 Tech Stack
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts" />
+</td>
+</tr>
 
-### Web & Backend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<tr>
+<td><b>Frontend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</td>
+</tr>
 
-### Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+<tr>
+<td><b>Backend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</td>
+</tr>
 
-### Security
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<tr>
+<td><b>Databases</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,prisma" />
+</td>
+</tr>
+
+<tr>
+<td><b>Cloud & DevOps</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,git,github" />
+</td>
+</tr>
+
+<tr>
+<td><b>Security</b></td>
+<td>
+<code>Burp Suite</code> · <code>Nmap</code> · <code>Wireshark</code> · <code>Nuclei</code> · <code>OWASP ZAP</code> · <code>Nikto</code>
+</td>
+</tr>
+</table>
+
+---
+
+## 🔐 Cybersecurity
+
+I'm interested in understanding how applications fail and how they can be designed more securely.
+
+`Web Security` · `Vulnerability Assessment` · `Network Security` · `Secure Architecture` · `Security Automation` · `AI-Assisted Security`
 
 ---
 
 ## 📚 Currently Learning
 
-- Data Structures & Algorithms
-- Backend Engineering
-- System Design
-- Cloud & Distributed Systems
-- Web Application Security
-- AI / LLM Applications
+<table>
+<tr>
+<td>⚡ Data Structures & Algorithms</td>
+<td>🏗️ System Design</td>
+</tr>
+
+<tr>
+<td>🔧 Backend Engineering</td>
+<td>☁️ Cloud Architecture</td>
+</tr>
+
+<tr>
+<td>🔐 Application Security</td>
+<td>🤖 AI / LLM Applications</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinayKumar7549&show_icons=true&theme=github_dark&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinayKumar7549&layout=compact&theme=github_dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=VinayKumar7549&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayKumar7549&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=VinayKumar7549&theme=github-dark-blue&hide_border=true" />
+
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## 🎯 Current Focus
 
-- 💼 LinkedIn: [Vinay Kumar](YOUR_LINKEDIN_URL)
-- 📧 Email: YOUR_EMAIL
-- 🌐 Portfolio: YOUR_PORTFOLIO_URL
+<div align="center">
+
+**Building Real-World Projects**  
+↓  
+**Improving DSA & Problem Solving**  
+↓  
+**Learning Scalable Backend Architecture**  
+↓  
+**Strengthening Cybersecurity Skills**  
+↓  
+**Exploring AI-Powered Applications**
+
+</div>
 
 ---
 
-### 💡 Building. Learning. Securing.
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sayini-vinay-kumar/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/VinayKumar7549">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### <i>Build · Secure · Learn · Repeat.</i>
+
+</div>
