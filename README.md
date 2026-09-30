@@ -80,16 +80,16 @@ Backend systems, cloud deployments, storage architectures, APIs, and distributed
 
 <a href="https://github.com/VinayKumar7549/ThreatMint">
 
-<strong>🛡️ ThreatMint</strong>
+<strong>🛡️ ThreatMint</strong> &nbsp; <sub>🚧 In Progress</sub>
 
 </a>
 
 <p>
-Security-focused platform for automated vulnerability assessment and AI-assisted security analysis.
+AI-powered security platform for automated vulnerability assessment, finding correlation, and security analysis.
 </p>
 
 <p>
-<strong>Stack</strong><br>
+<strong>Planned Stack</strong><br>
 <code>Next.js</code> <code>TypeScript</code> <code>Python</code> <code>FastAPI</code> <code>AWS</code> <code>PostgreSQL</code> <code>Cloudflare R2</code>
 </p>
 
